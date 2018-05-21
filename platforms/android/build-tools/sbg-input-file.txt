@@ -1,0 +1,1 @@
+C:\NodeJS\npm\Groceries\platforms\android\app/src/main/assets/app

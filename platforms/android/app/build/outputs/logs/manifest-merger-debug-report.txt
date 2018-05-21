@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1a0b4b3046c59ffca9e6ade93df985cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\7aea6e2acb4f4b0cb13bdc5aa1a6ae10\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\fae4eab2849768bbeb11fcb001766f87\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a8bb4e33847b2b3824d8441092e53952\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:3:2-38
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1a0b4b3046c59ffca9e6ade93df985cd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1a0b4b3046c59ffca9e6ade93df985cd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\7aea6e2acb4f4b0cb13bdc5aa1a6ae10\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\7aea6e2acb4f4b0cb13bdc5aa1a6ae10\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\fae4eab2849768bbeb11fcb001766f87\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\fae4eab2849768bbeb11fcb001766f87\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a8bb4e33847b2b3824d8441092e53952\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a8bb4e33847b2b3824d8441092e53952\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\fae4eab2849768bbeb11fcb001766f87\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\fae4eab2849768bbeb11fcb001766f87\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:27:3-37:14
+	android:label
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:29:4-49
+	android:configChanges
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:30:4-65
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:28:4-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:32:5-36:20
+action#android.intent.action.MAIN
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:3-57
+	android:name
+		ADDED from C:\NodeJS\npm\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\6691a1b721d6cb14ffe676fb1efb8601\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\d3524921fefad2eee208e8f358bb1c2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ce7e100200992a3eff3d671f531c7ec8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a8bb4e33847b2b3824d8441092e53952\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a8bb4e33847b2b3824d8441092e53952\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9e46348eacbc1893938dbacb80413604\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a2ae887d5b89a2fc8186ad2a3206193e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\8999cd98829a9ed4649ea18eb04b080b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\91a6b765ece5ba1b5108442dfe7df531\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\38983a81b36d17f0ec4653938d1b04ec\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\81d3915a513e0102d9b52fc0a032f69f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68bd83732916a0a24f46262115fd8791\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\dwipantara.wiweko\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\149c617f2495fda9db4da2c580350b11\AndroidManifest.xml:26:9-47
