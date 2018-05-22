@@ -1,3 +1,6 @@
+//dwi : username & password
+// --> hoho@yahoo.com --> test123
+
 var dialogsModule = require("ui/dialogs");
 var frameModule = require("ui/frame");
 
