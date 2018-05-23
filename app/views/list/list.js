@@ -1,6 +1,4 @@
 
-//test
-
 var dialogsModule = require("ui/dialogs");
 var observableModule = require("data/observable")
 var ObservableArray = require("data/observable-array").ObservableArray;
@@ -29,15 +27,32 @@ var pageData = new observableModule.fromObject({
 //     page = args.object;
 //     page.bindingContext = pageData;
 // };
+
+// exports.loaded = function(args) {
+//     page = args.object;
+//     page.bindingContext = pageData;
+
+//     groceryList.empty();
+//     // groceryList.load();
+//     pageData.set("isLoading", true);
+//     groceryList.load().then(function() {
+//         pageData.set("isLoading", false);
+//     });
+// };
+
 exports.loaded = function(args) {
     page = args.object;
+    var listView = page.getViewById("groceryList");
     page.bindingContext = pageData;
 
     groceryList.empty();
-    // groceryList.load();
     pageData.set("isLoading", true);
     groceryList.load().then(function() {
         pageData.set("isLoading", false);
+        listView.animate({
+            opacity: 1,
+            duration: 1000
+        });
     });
 };
 
