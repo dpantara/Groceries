@@ -1,6 +1,6 @@
 
 //dp
-
+var validator = require("email-validator");
 var config = require("../../shared/config");
 var fetchModule = require("fetch");
 
@@ -58,6 +58,11 @@ function User(info) {
             }),
             headers: getCommonHeaders()
         }).then(handleErrors);
+    };
+
+    viewModel.isValidEmail = function() {
+        var email = this.get("email");
+        return validator.validate(email);
     };
 
     return viewModel;
